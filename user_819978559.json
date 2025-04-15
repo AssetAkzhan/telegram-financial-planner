@@ -1,0 +1,27 @@
+{
+  "income": 1250000.0,
+  "budgets": {
+    "food": 150000.0,
+    "clothes": 100000.0,
+    "taxi": 80000.0,
+    "rent": 250000.0
+  },
+  "expenses": [
+    {
+      "category": "taxi",
+      "amount": 1500.0
+    },
+    {
+      "category": "food",
+      "amount": 7000.0
+    },
+    {
+      "category": "rent",
+      "amount": 250000.0
+    },
+    {
+      "category": "clothes",
+      "amount": 16000.0
+    }
+  ]
+}
